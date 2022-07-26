@@ -29,6 +29,7 @@ I have no name at this time for the SW, so feel free to offer !
 # Tested
 1) Free practice
 2) Online races
+3) Logitech G920
 
 # Coming Soon
 - Explaination on Apaix
