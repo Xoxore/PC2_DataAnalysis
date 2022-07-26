@@ -15,7 +15,7 @@ I have no name at this time for the SW, so feel free to offer !
 1) Download PC2_APAIX_Export.rar
 2) Create the folder C:\Program Files (x86)\APAIX
 3) Create the folder C:\temp\Apaix this is where the .csv data file will be created.
-4) Decompress .zip file and install the setup.exe
+4) Decompress .rar file and install the setup.exe
 5) Make sure to select the folder C:\Program Files (x86)\APAIX for the installation
 6) Launch project cars 2 and go to Options -> system --> activate shared memory to project car2
 7) Launch a game
