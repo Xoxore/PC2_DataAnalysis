@@ -12,12 +12,17 @@ I highly encourage you to go on https://www.tekshift.de/apaix-data-software and 
 I have no name at this time for the SW, so feel free to offer !
 
 # Setup of PC2_DataAnalysis
-1) Install the SW via the .exe file
-2) Create a folder C:\temp\Apaix this is where the .csv data file will be created.
-3) Launch project cars 2 and go to option--> activate shared memory PC2
-4) Start to play and launch PC2_DataAnalysis
-5) A popup windows will opened, keep it opened while you play. To close it, click on it or on the cross to close it.
-6) Load the data in apaix.
+1) Download PC2_APAIX_Export.rar
+2) Create the folder C:\Program Files (x86)\APAIX
+3) Create the folder C:\temp\Apaix this is where the .csv data file will be created.
+4) Decompress .zip file and install the setup.exe
+5) Make sure to select the folder C:\Program Files (x86)\APAIX for the installation
+6) Launch project cars 2 and go to Options -> system --> activate shared memory to project car2
+7) Launch a game
+8) Launch SMS_MemMapSample.exe located C:\Program Files (x86)\APAIX
+9) A popup windows will opened, keep it opened while you play.
+10) At each lap a .csv file is generated here C:\temp\Apaix
+11) To exit, click in the popup windows and then on the cross.
 
 # Tested
 1) Free practice
